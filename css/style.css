@@ -1,0 +1,22 @@
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+p ul li a{
+    text-decoration: none;
+    color: #ccc;
+}
+p ul li a:hover{
+    text-decoration: underline;
+    color: #ccc;
+}
+.input{
+    border-radius: 2rem !important;
+}
+::placeholder{
+    color: green;
+}
+.bg{
+    border:solid 1px rgba(241, 2, 2, 0.1) !important;
+}
